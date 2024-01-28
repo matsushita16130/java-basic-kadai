@@ -8,8 +8,7 @@ public class KatoHanako_Chapter17 extends Kato_Chapter17{
 	}
 	@Override
 	public void eachIntroduce() {
-		//Kato_Chapter17 information = new KatoHanako_Chapter17();
-		//information.execIntroduce();
+
 		System.out.println("趣味は読書です");
 	}
 }
